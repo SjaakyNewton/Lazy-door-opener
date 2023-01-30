@@ -24,3 +24,6 @@ I used PlatformIO to upload code to the NANO. With this I can pretty much connec
 
 ## Hardware layout:
 ![Hardware layout](./resources//Hardware_system_layout.png)
+
+## Info I used:
+https://nerdytechy.com/how-to-power-arduino-nano/
