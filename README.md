@@ -21,3 +21,6 @@ The engine works with 5V, so I will connect an extra energy supply.
 
 ## Software package:
 I used PlatformIO to upload code to the NANO. With this I can pretty much connect to all micro controllers. 
+
+## Hardware layout:
+![Hardware layout](./resources//Hardware_system_layout.png)
