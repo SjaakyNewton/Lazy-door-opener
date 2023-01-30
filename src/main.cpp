@@ -19,7 +19,7 @@ void loop(){
       // TODO: Can I turn the motor back? Will it not break when pushing the door back?
   }
   else{
-      // Is this to long? Probably not, right?
+      // Is this to long? Probably not, right? Haha
       delay(2);
   }
 }
